@@ -1,7 +1,7 @@
 # 🎓 School Management System (Python)
 
 A simple and beginner-friendly **School Management System** built using Python.
-This project allows users to store student details using file handling and demonstrates basic concepts of Python such as input handling, loops, and file operations.
+This project allows users to store student details using file handling and demonstrates basic concepts of Python such as input handling, loops, and file operations..
 
 ---
 
